@@ -55,7 +55,13 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 Credits
 •	Script author: Alcatrazy
 •	Inspired by: https://github.com/kavindupasan/batch-bg-remover-photoshop
+
+
+
 ________________________________________
+
+
+
 Български / BG
 Скрипт за Photoshop, който автоматично обработва изображения: премахва фонове чрез Photoshop Action, изрязва центрирано 1:1 и експортира прозрачни PNG файлове.
 Създаден от Alcatrazy.
