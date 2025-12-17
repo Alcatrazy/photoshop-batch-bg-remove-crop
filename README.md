@@ -33,18 +33,9 @@ C:\ps\out   // processed PNG output
 ```
 
 ### Setup
-1. Load the Photoshop Action file in the Actions panel.
+1. Load the Photoshop Action file in the Actions panel. **BG remove.atn** from zip
 2. Create the required folders: `C:\ps\src` and `C:\ps\out`
-3. Save the script as `remove-bg-no-color.jsx`
-4. Place all source images into `C:\ps\src`
-
-### Supported Input Formats
-- JPG / JPEG
-- PNG
-- TIFF
-- PSD
-- RAW formats (CR2, NEF, RAW)
-- HEIC
+3. Place all source images into `C:\ps\src`
 
 ### How to Run
 1. Open Photoshop
@@ -60,6 +51,14 @@ C:\ps\out   // processed PNG output
 ### Notes
 - Ensure Action names match exactly: Action Set: BG remove, Action: Remove Background
 - Dialogs are disabled for full automation
+
+### Supported Input Formats
+- JPG / JPEG
+- PNG
+- TIFF
+- PSD
+- RAW formats (CR2, NEF, RAW)
+- HEIC
 
 ### Repository Details
 **Short description:** Batch Photoshop JSX script for automatic background removal, 1:1 center crop, and transparent PNG export.
@@ -123,18 +122,9 @@ C:\ps\out   // обработени PNG файлове
 ```
 
 ### Настройка
-1. Заредете Photoshop Action в панела Actions.
+1. Заредете Photoshop Action в панела Actions. **BG remove.atn**
 2. Създайте папките: `C:\ps\src` и `C:\ps\out`
-3. Запишете скрипта като `remove-bg-no-color.jsx`
-4. Поставете всички изходни изображения в `C:\ps\src`
-
-### Поддържани формати
-- JPG / JPEG
-- PNG
-- TIFF
-- PSD
-- RAW формати (CR2, NEF, RAW)
-- HEIC
+3. Поставете всички изходни изображения в `C:\ps\src`
 
 ### Как да стартирате
 1. Отворете Photoshop
@@ -146,6 +136,14 @@ C:\ps\out   // обработени PNG файлове
 - Прозрачен фон
 - Пропорции 1:1
 - Автоматично генерирано име с времева отметка
+
+### Поддържани формати
+- JPG / JPEG
+- PNG
+- TIFF
+- PSD
+- RAW формати (CR2, NEF, RAW)
+- HEIC
 
 ### Бележки
 - Уверете се, че имената на Actions съвпадат точно: Action Set: BG remove, Action: Remove Background
