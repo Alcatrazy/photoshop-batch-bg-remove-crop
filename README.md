@@ -89,9 +89,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ### Credits
-- Script author: **Alcatrazy**
+- Script author: **Alcatrazy** - alcatrazy@gmail.com
 - Inspired by: https://github.com/kavindupasan/batch-bg-remover-photoshop
-
+### Fuel our creativity with a coffee: https://revolut.me/alcatrazy ☕
 ---
 
 ## Български / BG
@@ -163,6 +163,8 @@ Copyright (c) 2025 Alcatrazy
 Разрешава се използването, копирането, модифицирането, публикуването, разпространението и продажбата на софтуера, съгласно условията на MIT License.
 
 ### Авторство
-- Скрипт автор: **Alcatrazy**
+- Скрипт автор: **Alcatrazy**  - alcatrazy@gmail.com
 - Вдъхновено от: https://github.com/kavindupasan/batch-bg-remover-photoshop
+
+  ### Заредете нашата креативност с кафе: https://revolut.me/alcatrazy ☕
 
